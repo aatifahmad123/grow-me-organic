@@ -1,0 +1,13 @@
+.sub-dep{
+    margin-left: 50px;
+}
+
+.expand-icon{
+    margin-top: 20px;
+}
+
+.component-two{
+    background-color: #d8e2dc;
+    display: flex;
+    justify-content: center;
+}
